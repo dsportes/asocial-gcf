@@ -24,7 +24,7 @@
     chalk "^2.4.2"
     js-tokens "^4.0.0"
 
-"@google-cloud/functions-framework@^3.1.0":
+"@google-cloud/functions-framework@^3.3.0":
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/@google-cloud/functions-framework/-/functions-framework-3.3.0.tgz#9e4563e36ad8644aee1bb5dceaa715bd1ca6759d"
   integrity sha512-+4O1dX5VNRK1W1NyAia7zy5jLf88ytuz39/1kVUUaNiOf76YbMZKV0YjZwfk7uEwRrC6l2wynK1G+q8Gb5DeVw==

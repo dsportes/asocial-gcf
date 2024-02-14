@@ -3,15 +3,20 @@
   "version": "0.0.1",
   "author": "Daniel Sportes",
   "license": "ISC",
+  "main": "index.js",
   "engines": {
     "node": ">=20.0.0"
   },
   "scripts": {
+    "start": "functions-framework --target=asocialGCF --signature-type=http"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dsportes/asocial-gcf.git"
   },
   "dependencies": {
-    "@google-cloud/functions-framework": "^3.1.0"
   },
   "devDependencies": {
+    "@google-cloud/functions-framework": "^3.3.0"
   }
 }
-
